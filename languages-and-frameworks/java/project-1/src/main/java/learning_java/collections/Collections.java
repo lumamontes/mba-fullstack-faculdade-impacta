@@ -8,6 +8,7 @@ public class Collections {
     public static void main(String[] args) {
         exec();
     }
+
     public static void exec() {
         System.out.println("Collections");
         // Array de Strings

@@ -4,6 +4,10 @@ import java.util.List;
 
 public class Streams {
 
+    //Streams are a new feature in Java 8 that allows you to work with collections in a more functional way.
+    // You can use streams to filter, map, reduce, and otherwise manipulate collections of elements.
+    //Streams are not data structures that store elements. They are a way to work with collections of elements.
+
     public static Integer pow(Integer v){
         return v * v;
     }
