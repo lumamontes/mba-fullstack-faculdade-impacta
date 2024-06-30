@@ -46,12 +46,3 @@ O python vai entregar concorrência e não paralelismo:
 
 No entanto, em muitos casos a subida de múltiplos processos é mais eficiente que a subida de múltiplas threads.
 Especialmente considerando que o python tem um custo de subir um processo é menor que o custo de subir uma thread.
-
-
-## Spring Framework
-
-Spring é um framework open source para a plataforma Java, criado para simplificar o desenvolvimento de aplicações Java
-
-## Spring Boot
-
-Spring Boot é um projeto da Spring que visa facilitar o processo de configuração e publicação de aplicações que utilizam o ecossistema Spring + Java, como aplicações web, REST APIs, microservices, etc.
