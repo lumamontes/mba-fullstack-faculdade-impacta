@@ -3,7 +3,7 @@ package com.example.demo.services;
 import com.example.demo.models.Person;
 
 public class ImcService {
-    void calculate(Person p){
+    public void  calculate(Person p){
         var imc = p.getWeight() / (p.getHeight() * p.getHeight());
         var description = "Obesidade";
         if(imc < 18.5){
